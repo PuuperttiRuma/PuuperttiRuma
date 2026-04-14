@@ -1,6 +1,4 @@
-I’m @PuuperttiRuma.
-
-Below a sample of my coding escapades.
+## Hello, I’m @PuuperttiRuma
 
 ### Reference project
 - [BookAKayak](https://gitlab.com/greenteam2024/varaakajakki) Web service for booking kayaks for a local kayaking club. Made as a reference project with three other people.
@@ -22,8 +20,8 @@ Web Käyttöliittymät
 <!---  --->
 - [Conference Room API](https://github.com/PuuperttiRuma/conferenceroom-api) Testing out Google Gemini Code with a conference room API.
 - [D&D Spell Cards to Printable pdfs](https://github.com/PuuperttiRuma/cards2pdf) A quick and dirty tool which puts D&D spell cards in to a printable pdfs.
-<!--- Obsidian Markdown to Latex. --->
 - [RPG battle simulator](https://gitlab.com/PuuperttiRuma/RPG-battle-simulator) Monte Carlo simulator for battles of my Fate RPG -based DIY RPG system.
+<!--- Obsidian Markdown to Latex. --->
 
 <!---
 ### Backburner
